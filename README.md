@@ -2,8 +2,8 @@
 
 **Banking professional with 13+ years in credit, restructuring and portfolio analysis.** I work on restructuring and turnaround analysis, credit risk, market research and financial modelling.
 
-- Email: [your email]
-- LinkedIn: [your LinkedIn URL]
+- Email: [dhitakusuma88@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/dhitakusuma/]
 - Location: Indonesia (open to onsite in Jakarta, hybrid, or remote)
 
 This repository holds 18 case studies. Each folder has a README with the question, approach, key numbers and recommendation, plus the full deck (PDF). Cases marked *illustrative* use fictional data; cases on real organisations are anonymised.
