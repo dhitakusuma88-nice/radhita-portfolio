@@ -25,6 +25,6 @@ The same four models scale to real decisions: retirement targets, investment off
 
 ## Files
 - [Full deck (PDF)](./financial-modelling-toolkit.pdf)
-- Excel model: upload to this folder if available
+- [Excel model](./financial-modelling-toolkit.xlsx)
 
 [Back to portfolio](../../README.md)

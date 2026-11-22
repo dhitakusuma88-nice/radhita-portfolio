@@ -2,7 +2,7 @@
 
 **Result:** bankable today, but cash conversion needs work. Revenue nearly quadrupled and profit recovered, yet only 30% of FY2025 profit became operating cash.
 
-> PT XYZ (anonymised). Three years of balance sheet, P&L and cash flow, Excel model, USD.
+> PT XYZ (anonymised). Three years of balance sheet, P&L and cash flow, Excel model, USD. The Excel file holds the statements and an anonymised project list; the source ledgers were removed.
 
 ![Net profit vs operating cash](chart.png)
 
@@ -27,9 +27,9 @@ A contractor billing 16 projects by milestone (termin). FY2025 at a glance: reve
 | Revenue (USD mn) | 0.83 | 2.13 | 3.03 |
 | Gross margin | 57% | 25% | 32% |
 | Net profit (USD K) | 126 | 145 | 332 |
-| Debt service coverage | 460% | 22% | 271% (min 100%) |
+| Debt service coverage (EBITDA / current liabilities) | 460% | 22% | 136% (min 100%) |
 
-Revenue +159%, then +42%. Net margin is back to 10.9%.
+Revenue +159%, then +42%. Net margin is back to 10.9%. Coverage uses one formula in all three years; DSC rose from 22% to 136%.
 
 ## Cash flow
 Net profit more than doubled in FY2025 (USD 145K to 332K) while operating cash flow fell (USD 151K to 99K). Paying down USD 491K of payables absorbed most of the cash released by faster collection. Net cash still rose USD 63K.
@@ -39,10 +39,10 @@ Net profit more than doubled in FY2025 (USD 145K to 332K) while operating cash f
 2. **Track cost per project.** Costs took 68% of FY2025 revenue vs 43% in FY2023; compare actual vs contract.
 3. **Match payables to receipts.** Time vendor payments to client receipts to avoid a FY2024-style squeeze.
 4. **Broaden the pipeline.** Reduce reliance on one programme worth 29% of revenue.
-5. **Credit view.** DER 0.28x and DSC 271% support a working capital facility sized to receivables.
+5. **Credit view.** DER 0.28x and DSC 136% support a working capital facility sized to receivables.
 
 ## Files
 - [Full deck (PDF)](./financial-statement-analysis.pdf)
-- Excel model: upload to this folder if available
+- [Excel model](./financial-statement-analysis.xlsx)
 
 [Back to portfolio](../../README.md)

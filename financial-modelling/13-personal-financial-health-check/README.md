@@ -9,7 +9,7 @@ Most households know their salary, but not their net worth, debt burden or savin
 
 1. **Balance sheet:** what the household owns and owes. Yellow cells are the only inputs; everything else is a formula, so the user cannot break the logic. Assets in three layers (cash, investments, fixed assets at second-hand value); debt split by horizon (due within a year vs remaining mortgage and car loan).
 2. **Monthly cash flow:** five income sources and six expense groups (needs, savings, insurance, education, loan installments, lifestyle).
-3. **Ratios:** reads both sheets, compares against four benchmarks, and returns 0 instead of an error when inputs are empty.
+3. **Ratios:** reads both sheets, compares against four benchmarks, returns Pass or Flag for each, and returns 0 instead of an error when inputs are empty.
 
 ## Sample household output
 Net worth: assets IDR 1.33 bn minus debt 620 mn = **710 mn, flagged Good**. Monthly income IDR 31.0 mn from two salaries and investment interest; net cash flow +IDR 0.5 mn, a thin cushion.
@@ -32,6 +32,6 @@ Net worth: assets IDR 1.33 bn minus debt 620 mn = **710 mn, flagged Good**. Mont
 
 ## Files
 - [Full deck (PDF)](./personal-financial-health-check.pdf)
-- Excel template: upload to this folder if available
+- [Excel template](./personal-financial-health-check.xlsx)
 
 [Back to portfolio](../../README.md)

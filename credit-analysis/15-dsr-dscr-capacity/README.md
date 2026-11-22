@@ -18,6 +18,7 @@ A IDR 25 million loan (36 months, 14%) against the 30% DSR limit. **Decision: wi
 | Room for a new installment (4,500,000 - 2,200,000) | IDR 2,300,000 |
 | Installment for the requested loan | IDR 854,441 |
 | DSR after the new loan | 20.4%, vs 30% maximum |
+| Largest loan the room supports (36 months, 14%) | IDR 67.3 million |
 
 ## B. Business: DSCR
 A IDR 1.1 billion business loan against a 1.25x minimum DSCR. **Decision: meets minimum DSCR.**
@@ -31,6 +32,7 @@ A IDR 1.1 billion business loan against a 1.25x minimum DSCR. **Decision: meets 
 | DSCR before the loan | 2.62x (1,440 / 550) |
 | DSCR after the loan | **1.46x** (1,440 / 985), vs 1.25x minimum |
 | Room for a new annual installment | IDR 602 mn (maximum 1,152 at 1.25x, less 550 existing) |
+| Largest loan the room supports (36 months, 11.5%) | IDR 1,521 mn |
 
 The cushion shrinks from 2.6x to 1.5x after the loan, which is why the minimum is tested on the after-loan number.
 
@@ -40,7 +42,7 @@ The cushion shrinks from 2.6x to 1.5x after the loan, which is why the minimum i
 
 ## Files
 - [Full deck (PDF)](./dsr-dscr-capacity.pdf)
-- Excel model: upload to this folder if available
+- [Excel model](./dsr-dscr-capacity.xlsx)
 
 See also: [SME credit memo](../16-sme-credit-memo-revolving-limit/README.md), where the DSCR test runs across three scenarios.
 

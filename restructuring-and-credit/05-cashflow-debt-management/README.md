@@ -49,6 +49,6 @@ The model does not cover early-settlement penalties and fees, taxes or refinanci
 
 ## Files
 - [Full deck (PDF)](./cashflow-and-debt-management.pdf)
-- Excel model: upload to this folder if available
+- [Excel model](./cashflow-and-debt-management.xlsx)
 
 [Back to portfolio](../../README.md)

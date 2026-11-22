@@ -6,7 +6,7 @@
 - LinkedIn: [https://www.linkedin.com/in/dhitakusuma/]
 - Location: Indonesia (open to onsite in Jakarta, hybrid, or remote)
 
-This repository holds 18 case studies. Each folder has a README with the question, approach, key numbers and recommendation, plus the full deck (PDF). Cases marked *illustrative* use fictional data; cases on real organisations are anonymised.
+This repository holds 18 case studies. Each folder has a README with the question, approach, key numbers and recommendation, plus the full deck (PDF) and, where there is one, the Excel model. Cases marked *illustrative* use fictional data; cases on real organisations are anonymised.
 
 ## Start here: three cases for restructuring and credit roles
 

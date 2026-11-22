@@ -9,7 +9,7 @@
 ## The offers
 | Item | Bank A | Bank B |
 | --- | --- | --- |
-| Interest rate (per year, effective) | 9.80% | 9.20% |
+| Interest rate (per year, effective) | 9.75% | 9.25% |
 | Administration fee (% of loan) | 0.50% | 1.00% |
 | Notary / legal fees (IDR) | 4,500,000 | 6,500,000 |
 | Insurance (% of loan, one-off) | 1.20% | 0.70% |
@@ -29,7 +29,7 @@ Bank A is cheaper on fees; Bank B is cheaper on the rate.
 
 ## How to read it
 - **Fees come first.** They are paid at the start, so you receive less cash than the loan amount, but the installments stay the same.
-- **The real rate is higher** than the stated rate, because the same installments are paid on less cash.
+- **The real rate is higher** than the stated rate, because the same installments are paid on less cash: 1.28 percentage points higher for Bank A and 1.56 for Bank B.
 - **Use it to compare** offers with different mixes of rate and fees. The offer with the lower all-in annual cost is cheaper per year. Bank B wins on all-in annual cost.
 
 ## How the model works
@@ -37,6 +37,6 @@ Every cost line (interest, administration, legal, insurance, appraisal) flows in
 
 ## Files
 - [Full deck (PDF)](./bank-comparison-total-fee.pdf)
-- Excel model: upload to this folder if available
+- [Excel model](./bank-comparison-total-fee.xlsx)
 
 [Back to portfolio](../../README.md)

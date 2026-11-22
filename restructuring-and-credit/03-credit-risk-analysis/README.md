@@ -46,7 +46,7 @@ Credit is under control; efficiency is the real risk.
 
 ## Files
 - [Full deck (PDF)](./credit-risk-analysis-bank-xyz.pdf)
-- Excel model: upload to this folder if available
+- [Excel model](./credit-risk-analysis-bank-xyz.xlsx)
 
 See also: [ECL early-warning case](../04-ecl-early-warning/README.md), built on the same bank's data.
 

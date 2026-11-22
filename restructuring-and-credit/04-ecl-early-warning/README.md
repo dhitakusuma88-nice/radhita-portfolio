@@ -35,6 +35,7 @@ Annual data only; NIM used as a proxy for interest income; the collectibility 2 
 
 ## Files
 - [Full deck (PDF)](./ecl-early-warning-bank-xyz.pdf)
+- [Excel model](./ecl-early-warning-bank-xyz.xlsx)
 
 See also: [Credit risk analysis](../03-credit-risk-analysis/README.md).
 

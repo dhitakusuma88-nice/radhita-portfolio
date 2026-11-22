@@ -38,7 +38,7 @@ Score-based action costs IDR 422,000 vs IDR 1,000,000 to visit everyone: **57.8%
 
 ## Files
 - [Full deck (PDF)](./ews-collection.pdf)
-- Excel model: upload to this folder if available
+- [Excel model](./ews-collection.xlsx)
 
 See also: [NPL recovery strategy](../../restructuring-and-credit/02-npl-recovery-strategy/README.md), whose Phase 2 uses the same payment-behaviour idea.
 

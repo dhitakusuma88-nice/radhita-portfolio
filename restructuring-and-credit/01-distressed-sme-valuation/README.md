@@ -59,6 +59,6 @@ The lowest cell (9,000) is still above liquidation value (7,602). Terminal value
 
 ## Files
 - [Full deck (PDF)](./valuation-distressed-sme.pdf)
-- Excel model with formulas: `Valuation_Case_Distressed_SME_Model.xlsx` (upload to this folder)
+- [Excel model with formulas](./valuation-distressed-sme.xlsx)
 
 [Back to portfolio](../../README.md)

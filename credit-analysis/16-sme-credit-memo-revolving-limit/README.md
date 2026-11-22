@@ -27,7 +27,7 @@ Loan IDR 1,100 mn, 36 months, 11.5% a year.
 | Proposed annual installment | IDR 435 mn | |
 | Total annual debt service after disbursement | IDR 985 mn (550 existing) | |
 | DSCR after the loan | **1.46x** | minimum 1.25x |
-| Current ratio | passes | minimum 1.2x |
+| Current ratio after the loan | 1.78x (loan assumed to fund fixed assets; principal due in 12 months added to current liabilities) | minimum 1.2x |
 | Debt to equity after the loan | 1.01x | maximum 2.5x |
 
 ## 3. Scenarios: only the pessimistic case fails
@@ -42,14 +42,18 @@ Loan IDR 1,100 mn, 36 months, 11.5% a year.
 - **Cash conversion cycle:** 94.6 days (75.3 receivable, 77.2 inventory, 57.9 payable days).
 - **Who funds it:** the owner funds 80% from own capital; the bank finances 20%.
 - **Sizing:** average need IDR 620 mn; peak (x1.15 seasonal factor) IDR 713 mn; **recommended limit IDR 700 mn**, rounded to 50 mn.
+- **Against the existing line:** the working-capital loan today is IDR 800 mn, so the recommended limit is IDR 100 mn lower; the difference moves to term debt or is repaid.
 - **Why revolving:** the limit follows the working-capital cycle, so the line is sized to what the business actually needs, with the owner carrying most of it.
+
+## Data note
+Equity rose by IDR 570 mn in 2024 and IDR 590 mn in 2025 against net profit of IDR 875 mn and 1,050 mn. The gap implies owner distributions of IDR 305 mn and 460 mn, which the memo does not state; confirm against the dividend record.
 
 ## Conclusion
 Approve, with a condition on the downside. The condition protects the 1.25x minimum DSCR if revenue falls.
 
 ## Files
 - [Full deck (PDF)](./sme-credit-memo-revolving-limit.pdf)
-- Excel model: upload to this folder if available
+- [Excel model](./sme-credit-memo-revolving-limit.xlsx)
 
 See also: [DSR and DSCR capacity](../15-dsr-dscr-capacity/README.md).
 
