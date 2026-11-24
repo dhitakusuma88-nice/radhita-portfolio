@@ -41,7 +41,7 @@ The cushion shrinks from 2.6x to 1.5x after the loan, which is why the minimum i
 - Higher DSCR means more cushion.
 
 ## Files
-- [Full deck (PDF)](./dsr-dscr-capacity.pdf)
+- [Full deck (PDF)](./dsr-dscr-capacity.pdf?raw=true)
 - [Excel model](./dsr-dscr-capacity.xlsx)
 
 See also: [SME credit memo](../16-sme-credit-memo-revolving-limit/README.md), where the DSCR test runs across three scenarios.
